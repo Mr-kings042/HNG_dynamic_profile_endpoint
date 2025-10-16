@@ -1,0 +1,42 @@
+INFO - middleware.py - 2025-10-16 10:57:14,395 - middleware- Request 1bd88c2bff: GET /docs from 127.0.0.1
+INFO - middleware.py - 2025-10-16 10:57:14,399 - middleware- Request 1bd88c2bff: Completed 200 in 0.0013s
+INFO - middleware.py - 2025-10-16 10:57:14,958 - middleware- Request 30daf81e61: GET /openapi.json from 127.0.0.1
+INFO - middleware.py - 2025-10-16 10:57:15,045 - middleware- Request 30daf81e61: Completed 200 in 0.0137s
+INFO - middleware.py - 2025-10-16 11:09:59,291 - middleware- Request c0c88b17d0: GET /docs from 127.0.0.1
+INFO - middleware.py - 2025-10-16 11:09:59,310 - middleware- Request c0c88b17d0: Completed 200 in 0.0017s
+INFO - middleware.py - 2025-10-16 11:09:59,873 - middleware- Request 27d37f756a: GET /openapi.json from 127.0.0.1
+INFO - middleware.py - 2025-10-16 11:09:59,932 - middleware- Request 27d37f756a: Completed 200 in 0.0488s
+INFO - middleware.py - 2025-10-16 11:10:11,062 - middleware- Request da089449ff: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:10:11,073 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:10:14,489 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:10:14,491 - services- Fetched cat fact: Spanish-Jewish folklore recounts that Adam’s first wife, Lilith, became a black vampire cat, sucking the blood from sleeping babies. This may be the root of the superstition that a cat will smother a sleeping baby or suck out the child’s breath.
+INFO - middleware.py - 2025-10-16 11:10:14,511 - middleware- Request da089449ff: Completed 200 in 3.4395s
+INFO - middleware.py - 2025-10-16 11:10:23,585 - middleware- Request 80368e6c1d: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:10:23,589 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:10:24,240 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:10:24,243 - services- Fetched cat fact: Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!
+INFO - middleware.py - 2025-10-16 11:10:24,252 - middleware- Request 80368e6c1d: Completed 200 in 0.6638s
+INFO - middleware.py - 2025-10-16 11:10:25,457 - middleware- Request 6b03ab4f16: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:10:25,510 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:10:26,226 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:10:26,228 - services- Fetched cat fact: The Maine Coone is the only native American long haired breed.
+INFO - middleware.py - 2025-10-16 11:10:26,230 - middleware- Request 6b03ab4f16: Completed 200 in 0.7209s
+INFO - middleware.py - 2025-10-16 11:10:27,259 - middleware- Request a1a1021395: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:10:27,261 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:10:27,968 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:10:27,974 - services- Fetched cat fact: In the 1930s, two Russian biologists discovered that color change in Siamese kittens depend on their body temperature. Siamese cats carry albino genes that work only when the body temperature is above 98° F. If these kittens are left in a very warm room, their points won’t darken and they will stay a creamy white.
+INFO - middleware.py - 2025-10-16 11:10:27,976 - middleware- Request a1a1021395: Completed 200 in 0.7157s
+INFO - middleware.py - 2025-10-16 11:10:28,742 - middleware- Request 1a58a3e6d6: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:10:28,751 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:10:29,386 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:10:29,389 - services- Fetched cat fact: In the 1750s, Europeans introduced cats into the Americas to control pests.
+INFO - middleware.py - 2025-10-16 11:10:29,392 - middleware- Request 1a58a3e6d6: Completed 200 in 0.6417s
+INFO - middleware.py - 2025-10-16 11:11:08,891 - middleware- Request d280c626bc: GET /docs from 127.0.0.1
+INFO - middleware.py - 2025-10-16 11:11:08,894 - middleware- Request d280c626bc: Completed 200 in 0.0016s
+INFO - middleware.py - 2025-10-16 11:11:09,234 - middleware- Request 04c1dc109d: GET /openapi.json from 127.0.0.1
+INFO - middleware.py - 2025-10-16 11:11:09,245 - middleware- Request 04c1dc109d: Completed 200 in 0.0006s
+INFO - middleware.py - 2025-10-16 11:11:14,781 - middleware- Request 926a717caf: GET /me/ from 127.0.0.1
+INFO - routers.py - 2025-10-16 11:11:14,782 - routers- Fetching cat facts and user profile
+INFO - _client.py - 2025-10-16 11:11:15,382 - httpx- HTTP Request: GET https://catfact.ninja/fact "HTTP/1.1 200 OK"
+INFO - services.py - 2025-10-16 11:11:15,399 - services- Fetched cat fact: Cats make about 100 different sounds. Dogs make only about 10.
+INFO - middleware.py - 2025-10-16 11:11:15,411 - middleware- Request 926a717caf: Completed 200 in 0.6292s
