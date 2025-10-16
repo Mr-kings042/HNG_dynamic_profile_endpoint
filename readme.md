@@ -23,8 +23,9 @@ A FastAPI project that exposes a simple endpoint returning a user profile plus a
 
 ## Quick setup 
 1. Clone the Repository
-``` bash git clone https://github.com/yourusername/fastapi-cat-profile.git
-cd fastapi-cat-profile 
+``` bash 
+git clone https://github.com/Mr-kings042/HNG_dynamic_profile_endpoint.git
+cd HNG_dynamic_profile_endpoint
 ```
 2. Create and activate a virtual environment (recommended):
 
